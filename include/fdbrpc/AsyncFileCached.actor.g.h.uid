@@ -1,0 +1,8 @@
+15425220608867572224|7461176485706396416|/Users/gyming/Documents/USC/CATPS/Task/foundationdb/fdbrpc/include/fdbrpc/AsyncFileCached.actor.h:write_impl
+5515727675637460992|12983432252956440576|/Users/gyming/Documents/USC/CATPS/Task/foundationdb/fdbrpc/include/fdbrpc/AsyncFileCached.actor.h:truncate_impl
+15667514926332327168|15441092048623122176|/Users/gyming/Documents/USC/CATPS/Task/foundationdb/fdbrpc/include/fdbrpc/AsyncFileCached.actor.h:open_impl
+6975318331926651648|119595568749709056|/Users/gyming/Documents/USC/CATPS/Task/foundationdb/fdbrpc/include/fdbrpc/AsyncFileCached.actor.h:waitAndSync
+16622053951639620352|15416843782088121600|/Users/gyming/Documents/USC/CATPS/Task/foundationdb/fdbrpc/include/fdbrpc/AsyncFileCached.actor.h:waitAndWrite
+1183007539651090688|2863272141521229568|/Users/gyming/Documents/USC/CATPS/Task/foundationdb/fdbrpc/include/fdbrpc/AsyncFileCached.actor.h:waitAndRead
+3360926656516683264|14099217666146813440|/Users/gyming/Documents/USC/CATPS/Task/foundationdb/fdbrpc/include/fdbrpc/AsyncFileCached.actor.h:readThrough
+17111276747426599680|11584480560574827264|/Users/gyming/Documents/USC/CATPS/Task/foundationdb/fdbrpc/include/fdbrpc/AsyncFileCached.actor.h:writeThrough
